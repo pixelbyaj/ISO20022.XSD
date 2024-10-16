@@ -22,7 +22,7 @@
         },
         "repositoryUrl": {
           "url": "https://github.com/pixelbyaj/ISO20022.XSD.git",
-          "wellKnown": "https://github.com/pixelbyaj/ISO20022.XSD/blob/main/.well-known/funding.json"
+          "wellKnown": "https://github.com/pixelbyaj/ISO20022.XSD/blob/main/.well-known/funding-manifest-urls"
         },
         "licenses": ["spdx:Apache License 2.0"],
         "tags": [
